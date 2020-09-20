@@ -1,0 +1,10 @@
+.red{
+    border: 1px solid red;
+}
+.blue{
+    border: 1px solid blue;
+}
+.blue-bg{
+    background-color: blue;
+    color: white;
+}
